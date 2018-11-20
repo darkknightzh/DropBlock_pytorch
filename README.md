@@ -1,7 +1,7 @@
 # DropBlock_pytorch
 
 
-This is my second time to upload code to github, if there is something wrong wi the README and LICENSE, 
+This is my second time to upload code to github, if there is something wrong with README and LICENSE, 
 please let me know. I will modify or delete the code or project if necessary.
 
 other implementations of DropBlock:
