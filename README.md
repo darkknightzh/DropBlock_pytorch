@@ -19,4 +19,4 @@ Inspired by [DHZS:tf-dropblock](https://github.com/DHZS/tf-dropblock), I modifie
 [Randl:DropBlock-pytorch](https://github.com/Randl/DropBlock-pytorch), and use max pooling instead 
 of conv to get the mask of DropBlock(named DropBlock2DV2 in the code). All the code except DropBlock2DV2 
 comes from [Randl:DropBlock-pytorch](https://github.com/Randl/DropBlock-pytorch), you can go to 
-[Randl:DropBlock-pytorch](https://github.com/Randl/DropBlock-pytorch) for more information.
+[Randl:DropBlock-pytorch](https://github.com/Randl/DropBlock-pytorch) and [（原）DropBlock A regularization method for convolutional networks](https://www.cnblogs.com/darkknightzh/p/9985027.html) for more information.
